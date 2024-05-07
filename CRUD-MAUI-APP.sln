@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD-MAUI-APP", "CRUD-MAUI-APP\CRUD-MAUI-APP.csproj", "{01E0B8EF-EC1F-4C79-AA4E-C19E37ACBF28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRUD-MAUI-APP", "CRUD-MAUI-APP\CRUD-MAUI-APP.csproj", "{01E0B8EF-EC1F-4C79-AA4E-C19E37ACBF28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiClientPackage", "ApiClientPackage\ApiClientPackage.csproj", "{A70B22DA-5FDB-4971-A8FE-A44AF5D9F64E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiClientPackage", "ApiClientPackage\ApiClientPackage.csproj", "{A70B22DA-5FDB-4971-A8FE-A44AF5D9F64E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{A31C3E51-F00B-4D38-B130-E1CE5D1F700B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Models", "Models\Models.csproj", "{A31C3E51-F00B-4D38-B130-E1CE5D1F700B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{C2306362-0BD5-49C3-9482-F1F69447C90A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
